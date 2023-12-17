@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/woodwork-sin/static/css/main.3600f487.css",
+    "main.js": "/woodwork-sin/static/js/main.9b86347a.js",
+    "static/js/787.64b14beb.chunk.js": "/woodwork-sin/static/js/787.64b14beb.chunk.js",
+    "static/media/light-wood-section.jpg": "/woodwork-sin/static/media/light-wood-section.c34d00b02b93ca3938c2.jpg",
+    "static/media/2-3113315.jpg": "/woodwork-sin/static/media/2-3113315.164b13af531321111829.jpg",
+    "static/media/R.jpeg": "/woodwork-sin/static/media/R.fa2e135343c76ae93815.jpeg",
+    "static/media/581919.jpg": "/woodwork-sin/static/media/581919.45482e5de49aea4c84ef.jpg",
+    "static/media/product-freewall-1.jpg": "/woodwork-sin/static/media/product-freewall-1.4397b4918b75609540ec.jpg",
+    "static/media/woodLogo1.svg": "/woodwork-sin/static/media/woodLogo1.d2942623e93c05c5fb28d342047daf0e.svg",
+    "static/media/detailhd.jpg": "/woodwork-sin/static/media/detailhd.a08fc210a3dc270d9796.jpg",
+    "static/media/my_logo.png": "/woodwork-sin/static/media/my_logo.d118d2477c2ca5d1e38a.png",
+    "static/media/Wood-Cutting-Tools.jpeg": "/woodwork-sin/static/media/Wood-Cutting-Tools.92c5f30c2c7ff3700eab.jpeg",
+    "static/media/Lumber-Experts-Top.jpg": "/woodwork-sin/static/media/Lumber-Experts-Top.c46986b20fbe57f3a2db.jpg",
+    "static/media/Wood-Cutting-Tools.jpg": "/woodwork-sin/static/media/Wood-Cutting-Tools.b2560fcb2eaa965e2808.jpg",
+    "static/media/intro-1694181432.webp": "/woodwork-sin/static/media/intro-1694181432.7913ef9db6262ff116e7.webp",
+    "static/media/612x612.jpg": "/woodwork-sin/static/media/612x612.f4e86e7584b06ca5710d.jpg",
+    "static/media/FuturaCyrillicLight.woff": "/woodwork-sin/static/media/FuturaCyrillicLight.771add7f65bc0d53ca8b.woff",
+    "index.html": "/woodwork-sin/index.html",
+    "main.3600f487.css.map": "/woodwork-sin/static/css/main.3600f487.css.map",
+    "main.9b86347a.js.map": "/woodwork-sin/static/js/main.9b86347a.js.map",
+    "787.64b14beb.chunk.js.map": "/woodwork-sin/static/js/787.64b14beb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3600f487.css",
+    "static/js/main.9b86347a.js"
+  ]
+}
