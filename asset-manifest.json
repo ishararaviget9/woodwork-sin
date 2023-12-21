@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/woodwork-sin/static/css/main.0e3889eb.css",
-    "main.js": "/woodwork-sin/static/js/main.3a2f9cfd.js",
+    "main.css": "/woodwork-sin/static/css/main.00db31b7.css",
+    "main.js": "/woodwork-sin/static/js/main.b32f6084.js",
     "static/js/787.64b14beb.chunk.js": "/woodwork-sin/static/js/787.64b14beb.chunk.js",
     "static/media/light-wood-section.jpg": "/woodwork-sin/static/media/light-wood-section.c34d00b02b93ca3938c2.jpg",
     "static/media/2-3113315.jpg": "/woodwork-sin/static/media/2-3113315.164b13af531321111829.jpg",
@@ -19,12 +19,12 @@
     "static/media/intro-1694181432.webp": "/woodwork-sin/static/media/intro-1694181432.7913ef9db6262ff116e7.webp",
     "static/media/FuturaCyrillicLight.woff": "/woodwork-sin/static/media/FuturaCyrillicLight.771add7f65bc0d53ca8b.woff",
     "index.html": "/woodwork-sin/index.html",
-    "main.0e3889eb.css.map": "/woodwork-sin/static/css/main.0e3889eb.css.map",
-    "main.3a2f9cfd.js.map": "/woodwork-sin/static/js/main.3a2f9cfd.js.map",
+    "main.00db31b7.css.map": "/woodwork-sin/static/css/main.00db31b7.css.map",
+    "main.b32f6084.js.map": "/woodwork-sin/static/js/main.b32f6084.js.map",
     "787.64b14beb.chunk.js.map": "/woodwork-sin/static/js/787.64b14beb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e3889eb.css",
-    "static/js/main.3a2f9cfd.js"
+    "static/css/main.00db31b7.css",
+    "static/js/main.b32f6084.js"
   ]
 }
